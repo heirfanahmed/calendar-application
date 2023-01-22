@@ -1,10 +1,11 @@
 # Work Day Scheduler
 
-Description
+## Description
 
 * Starter codes of HTML & CSS files has been provided with some errors when the console is opened.
 
-Action
+
+## Action
 
 1. Created a simple calendar application that allows a user to save events for each hour (from 9am to 5pm) of the day by modifying the starter codes of HTML and CSS provided along with the below js file.
 
@@ -34,11 +35,14 @@ Action
 
 ![A user clicks on slots on the color-coded calendar and edits the events.](./images/05-third-party-apis-homework-demo.gif)
 
-Screen Shot of the website:
 
 
-Links to the deployed website and repository URL:
+## Screen Shot of the website:
 
-** Deployed website:
 
-** Repository URL:
+
+## Links to the deployed website and repository URL:
+
+### Deployed website:
+
+### Repository URL:
