@@ -23,9 +23,9 @@
  
     * Presents timeblocks for standard business hours when the user scrolls down.
  
-    * Each timeblock is color-coded based on past, present, and future when the timeblock is viewed.
+    * Each timeblock is color-coded based on past (grey colour), present (red colour) and future (green colour) when the timeblock is viewed.
  
-    * Allows a user to enter an event when they click a timeblock.
+    * Allows a user to enter an event when they click on a timeblock.
 
     * Saves the event in local storage when the save button is clicked in that timeblock.
 
