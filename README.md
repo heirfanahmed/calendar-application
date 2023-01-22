@@ -38,11 +38,12 @@
 
 
 ## Screen Shot of the website:
+  ![](images/work-day-scheduler.png)
 
 
 
 ## Links to the deployed website and repository URL:
 
-### Deployed website:
+### Repository URL: https://github.com/heirfanahmed/work-day-scheduler
 
-### Repository URL:
+### Deployed website: https://heirfanahmed.github.io/work-day-scheduler/
